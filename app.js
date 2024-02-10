@@ -14,5 +14,5 @@ const parent = React.createElement("div" , {id:"parent"},
 
 
 // console.log(parent);
-const root1 = ReactDOM.createRoot(document.getElementById("root"))
+const root1 = ReactDOM.createRoot(document.getElementById("header"))
 root1.render(parent);
